@@ -5,12 +5,15 @@ Here is a list of all the token contracts I have deployed on **Sepolia** and **P
 ### 🔹 **ERC-20 Tokens**
 
 
+
+
 ### 🔸 **ERC-721 (NFT) Contracts**
 
 - [MeowjestyNFT (MJ)](https://sepolia.etherscan.io/token/0x2163138fad4ad344269fb373359ac43e32967a42)
 
 ### 🔺 **ERC-1155 (Multi-Token) Contracts**
 
+- [VariantVerse (VVT)](https://sepolia.etherscan.io/token/0x759d5e77ea5ae00614c93fa531e5b22797aef8fd)
 
 ---
 
