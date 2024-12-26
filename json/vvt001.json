@@ -1,6 +1,9 @@
 {
-    "name": "Variant Verse 001",
-    "description": "An ERC1155 Token",
-    "image": "https://raw.githubusercontent.com/KoKhant02/nft-data/0a5c6670c58f46115b8fe9e9608ecd0d5ce87b44/images/VVT001.png"
+  "name": "Variant Verse 001",
+  "description": "The first token in the Variant Verse collection, granting access to our exclusive community and future airdrops.",
+  "image": "https://raw.githubusercontent.com/KoKhant02/nft-data/0a5c6670c58f46115b8fe9e9608ecd0d5ce87b44/images/VVT001.png",
+  "external_url": "https://www.variantverse.com",
+  "properties": {
+    "type": "Foundational"
   }
-  
+}
