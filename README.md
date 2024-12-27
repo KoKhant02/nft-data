@@ -2,7 +2,7 @@
 
 Here is a list of all the token contracts I have deployed on **Sepolia** and **Polygon-Amoy**. Each contract is categorized and linked for easy reference.
 
-### 🔹 **ERC-20 Tokens** :
+### 🔹 **ERC-20 Tokens** : [ImpireZas (IZ)](https://sepolia.etherscan.io/token/0x8a3ed52ab81eebdb99a3205a52e5fbf692cb416e)
 
 ### 🔸 **ERC-721 (NFT) Contracts** : [MeowjestyNFT (MJ)](https://sepolia.etherscan.io/token/0x2163138fad4ad344269fb373359ac43e32967a42)
 
